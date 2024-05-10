@@ -11,4 +11,4 @@ jobs:
         with:
           token: ${{ secrets.REGELS_PUBLICATION_TOKEN }}
           owner: 'MinBZK'
-          repo: 'Wetsanalyse'
+          repo: 'wetsanalyse'
