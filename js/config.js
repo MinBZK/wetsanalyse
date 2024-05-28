@@ -4,18 +4,18 @@ let respecConfig = {
   useLogo: true,
   useLabel: true,
   license: "cc0",
-  specStatus: "DEF",
+  specStatus: "WV",
   specType: "IM",
   pubDomain: "ronl",
 
   // shortName = Repository name
   shortName: "Wetsanalyse",
-  publishDate: "2024-05-10",
-  publishVersion: "1.0.5",
+  publishDate: "2024-05-28",
+  publishVersion: "2.0.0",
 
-  previousPublishVersion: "1.0.2",
-  previousPublishDate: "2024-04-19",
-  previousMaturity: "WV",
+  previousPublishVersion: "1.0.5",
+  previousPublishDate: "2024-05-10",
+  previousMaturity: "DEF",
   title: "Wetsanalyse",
   subtitle:
     "Voor een werkbare uitvoering van wetgeving met ICT",
