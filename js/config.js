@@ -23,7 +23,7 @@ let respecConfig = {
   // Content
   content: {
     "H1-Inleiding": "informative",
-    "H2-JAS": "",
+    "H2-JRM": "",
     "H3-Kader": ""
   },
   editors: [
