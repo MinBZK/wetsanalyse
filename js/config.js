@@ -58,19 +58,19 @@ let respecConfig = {
       publisher: "Proefschrift Vu, oktober 2018, 389 blz",
     },
     WETSANALYSE: {
-      title: "Ausems A, Bulles J en Lokin M, Wetsanalyse, voor een werkbare uitvoering van wetgeving met ICT",
+      title:
+        "Ausems A, Bulles J en Lokin M, Wetsanalyse, voor een werkbare uitvoering van wetgeving met ICT",
       href: "https://www.boom.nl/product/100-11574_Wetsanalyse",
       publisher: "Boom Juridische Uitgevers, juni 2021, 351 blz",
     },
-    ONRECHT: {
-      title:
-        "C. van Dam, Ongekend onrecht",
+    "ONGEKEND-ONRECHT": {
+      title: "C. van Dam, Ongekend onrecht",
       href: "https://www.tweedekamer.nl/sites/default/files/atoms/files/20201217_eindverslag_parlementaire_ondervragingscommissie_kinderopvangtoeslag.pdf",
-      publisher: "Verslag – Parlementaire ondervragingscommissie Kinderopvangtoeslag, december 2020, 132 blz",
+      publisher:
+        "Verslag – Parlementaire ondervragingscommissie Kinderopvangtoeslag, december 2020, 132 blz",
     },
     STATEMENT: {
-      title:
-        "Mark Rutte, Kabinetsreactie rapport ‘Ongekend onrecht’",
+      title: "Mark Rutte, Kabinetsreactie rapport ‘Ongekend onrecht’",
       href: "https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2021D01957&did=2021D01957",
       publisher: "Brief aan 2e Kamer, 15-01-2021, 26 blz",
     },
@@ -99,14 +99,12 @@ let respecConfig = {
       publisher: "Kluwer, 2012",
     },
     WETGEVINGSLEER: {
-      title:
-        "Prof P Eijlander en prof W Voermans, Wetgevingsleer, 416 blz",
+      title: "Prof P Eijlander en prof W Voermans, Wetgevingsleer, 416 blz",
       href: "https://www.bibliotheek.nl/catalogus/titel.207284202.html/wetgevingsleer/",
       publisher: "Boom Juridische Uitgevers, 2000",
     },
     REGELSPRAAK: {
-      title:
-        "Regelspraak",
+      title: "Regelspraak",
       href: "https://regels.overheid.nl/docs/methods/REGELSPRAAK",
       authors: ["Belastingdienst"],
       date: "2023",
