@@ -57,16 +57,28 @@ let respecConfig = {
       href: "https://hdl.handle.net/1871.1/38144f24-b2d7-4a84-83df-4f5e895b44ec",
       publisher: "Proefschrift Vu, oktober 2018, 389 blz",
     },
-    HOHFELD_2: {
-      title: "Fundamental Legal Conceptions as Applied in Judicial Reasoning",
-      href: "https://openyls.law.yale.edu/bitstream/handle/20.500.13051/3864/Fundamental_Legal_Conceptions_as_Applied_in_Judicial_Reasoning.pdf?sequence=2",
-      publisher: "Yale Law Journal (26) 1917, afl. 8, p. 710-770.",
+    WETSANALYSE: {
+      title: "Ausems A, Bulles J en Lokin M, Wetsanalyse, voor een werkbare uitvoering van wetgeving met ICT",
+      href: "https://www.boom.nl/product/100-11574_Wetsanalyse",
+      publisher: "Boom Juridische Uitgevers, juni 2021, 351 blz",
     },
-    BLKAMER: {
+    ONRECHT: {
       title:
-        "Een kapstok voor herleidbare wet- en regelgeving voor dienstverlening",
-      href: "https://wendbarewetsuitvoering.pleio.nl/attachment/1dddbb91-8f6b-4bca-9b4f-5e3d4a19efef",
-      publisher: "Harrie van Houtum (Business KnowHow Services) et al",
+        "C. van Dam, Ongekend onrecht",
+      href: "https://www.tweedekamer.nl/sites/default/files/atoms/files/20201217_eindverslag_parlementaire_ondervragingscommissie_kinderopvangtoeslag.pdf",
+      publisher: "Verslag – Parlementaire ondervragingscommissie Kinderopvangtoeslag, december 2020, 132 blz",
+    },
+    STATEMENT: {
+      title:
+        "Mark Rutte, Kabinetsreactie rapport ‘Ongekend onrecht’",
+      href: "https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2021D01957&did=2021D01957",
+      publisher: "Brief aan 2e Kamer, 15-01-2021, 26 blz",
+    },
+    "BURGERS-BETER-BESCHERMD": {
+      title:
+        " Prof mr dr M.B.A. van Hout, prof. dr. M.L.M. Hertogh, dr. A. Zuurmond, Burgers beter beschermd (Praktische rechtsbescherming in belastingzaken), 22 april 2021, 142 blz",
+      href: "https://www.rijksoverheid.nl/documenten/kamerstukken/2021/04/22/1rapport-burgers-beter-beschermd",
+      publisher: "Kamerstuk",
     },
     NLSBB: {
       href: "https://docs.geostandaarden.nl/nl-sbb/nl-sbb/",
