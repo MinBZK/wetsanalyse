@@ -52,10 +52,10 @@ let respecConfig = {
 
   // References & footnotes
   localBiblio: {
-    HOHFELD_1: {
-      title: "Some Fundamental Conceptions as Applied in Judicial Reasoning",
-      href: "https://openyls.law.yale.edu/bitstream/handle/20.500.13051/11079/05_23YaleLJ16_1913_1914_.pdf?sequence=2",
-      publisher: "Yale Law Journal (23) 1913, afl. 1, p. 16-59",
+    LOKIN: {
+      title: "Mr Dr M Lokin, Wendbaar wetgeven",
+      href: "https://hdl.handle.net/1871.1/38144f24-b2d7-4a84-83df-4f5e895b44ec",
+      publisher: "Proefschrift Vu, oktober 2018, 389 blz",
     },
     HOHFELD_2: {
       title: "Fundamental Legal Conceptions as Applied in Judicial Reasoning",

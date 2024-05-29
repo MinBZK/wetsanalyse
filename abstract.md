@@ -1,5 +1,5 @@
 ## Samenvatting
-Het proefschrift van Mr Dr Mariette Lokin1 was in 2018 het eerste proefschrift in een faculteit Rechtsgeleerdheid waarin ruim aandacht werd gevraagd voor Wetsanalyse. Het boek Wetsanalyse van Mr Anouschka Ausems, Dr Mr Mariette Lokin en John Bulles B Sc Wiskunde2 heeft Wetsanalyse in 2021 definitief op de kaart gezet.
+Het proefschrift van Mr Dr Mariette [[?LOKIN]] was in 2018 het eerste proefschrift in een faculteit Rechtsgeleerdheid waarin ruim aandacht werd gevraagd voor Wetsanalyse. Het boek Wetsanalyse van Mr Anouschka Ausems, Dr Mr Mariette Lokin en John Bulles B Sc Wiskunde2 heeft Wetsanalyse in 2021 definitief op de kaart gezet.
 
 In 2020 heeft het rapport Ongekend Onrecht3 aandacht gevraagd voor een fatale zwakte in
 traditionele wetgeving. In januari 2021 heeft de regering een duidelijk statement afgegeven dat een volgende KinderOpvangToeslagAffaire absoluut voorkomen4 dient te worden. In april 2021 is het rapport Burgers Beter Beschermd5 uitgebracht met de beroemde term ‘’wrong jungle’. Eveneens in april 2021 kwam een belangrijk advies6 uit van de Raad van State, de advieskant, met aandacht voor de samenhang tussen politiek beleid, wetgeving en wetsuitvoering. In november 2021 is het treffende advies van de 3 wijzen7 gepubliceerd, waarin de fatale zwakten in de traditionele wetgeving nader worden benoemd.
