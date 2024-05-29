@@ -80,6 +80,36 @@ let respecConfig = {
       href: "https://www.rijksoverheid.nl/documenten/kamerstukken/2021/04/22/1rapport-burgers-beter-beschermd",
       publisher: "Kamerstuk",
     },
+    ADVIES: {
+      title:
+        "Mr Thom de Graaf, Vice-president van de Raad van State, Aanbevelingen ter bevordering van wetgevingskwaliteit",
+      href: "https://www.raadvanstate.nl/@125178/aanbevelingen-wetgevingsproces/",
+      publisher: "Raad van State, 19 april 2021",
+    },
+    "HOGE-COLLEGES-VAN_STAAT": {
+      title:
+        "Mr Thom de Graaf, Drs Arno Visser, Mr Reinier van Zutphen, Zorgvuldig, rechtsstatelijk en met vertrouwen in de burger",
+      href: "https://www.nationaleombudsman.nl/system/files/bijlage/Gezamenlijke%20paper%20drie%20Hoge%20Colleges%20van%20Staat%20ten%20behoeve%20van%20de%20formatie_0.pdf",
+      publisher: "Hoge Colleges van Staat, 3 november 2021",
+    },
+    WETGEVEN: {
+      title:
+        "Wetgeven Handboek voor de centrale en decentrale overheid, prof. mr. S. E. Zijlstra (red), 2012, 695 blz",
+      href: "https://hdl.handle.net/1871.1/134f0079-3012-4a90-96b1-c56cceaf5ed7",
+      publisher: "Kluwer, 2012",
+    },
+    WETGEVINGSLEER: {
+      title:
+        "Prof P Eijlander en prof W Voermans, Wetgevingsleer, 416 blz",
+      href: "https://www.bibliotheek.nl/catalogus/titel.207284202.html/wetgevingsleer/",
+      publisher: "Boom Juridische Uitgevers, 2000",
+    },
+    REGELSPRAAK: {
+      title:
+        "Regelspraak",
+      href: "https://regels.overheid.nl/docs/methods/REGELSPRAAK",
+      publisher: "Belastingdienst",
+    },
     NLSBB: {
       href: "https://docs.geostandaarden.nl/nl-sbb/nl-sbb/",
       title: "NL-SBB - Standaard voor het beschrijven van begrippen",
