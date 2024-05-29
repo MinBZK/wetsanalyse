@@ -86,13 +86,13 @@ let respecConfig = {
       href: "https://www.raadvanstate.nl/@125178/aanbevelingen-wetgevingsproces/",
       publisher: "Raad van State, 19 april 2021",
     },
-    "HOGE-COLLEGES-VAN_STAAT": {
+    "HOGE-COLLEGES-VAN-STAAT": {
       title:
         "Mr Thom de Graaf, Drs Arno Visser, Mr Reinier van Zutphen, Zorgvuldig, rechtsstatelijk en met vertrouwen in de burger",
       href: "https://www.nationaleombudsman.nl/system/files/bijlage/Gezamenlijke%20paper%20drie%20Hoge%20Colleges%20van%20Staat%20ten%20behoeve%20van%20de%20formatie_0.pdf",
       publisher: "Hoge Colleges van Staat, 3 november 2021",
     },
-    WETGEVEN: {
+    WETGEVING: {
       title:
         "Wetgeven Handboek voor de centrale en decentrale overheid, prof. mr. S. E. Zijlstra (red), 2012, 695 blz",
       href: "https://hdl.handle.net/1871.1/134f0079-3012-4a90-96b1-c56cceaf5ed7",
@@ -108,7 +108,8 @@ let respecConfig = {
       title:
         "Regelspraak",
       href: "https://regels.overheid.nl/docs/methods/REGELSPRAAK",
-      publisher: "Belastingdienst",
+      authors: ["Belastingdienst"],
+      date: "2023",
     },
     NLSBB: {
       href: "https://docs.geostandaarden.nl/nl-sbb/nl-sbb/",
