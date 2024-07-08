@@ -121,7 +121,7 @@ let respecConfig = {
   alternateFormats: [
     {
       label: "pdf",
-      uri: "Wetsanalyse.pdf",
+      uri: "https://regels.overheid.nl/publicaties/wetsanalyse/pdf",
     },
   ],
 };
