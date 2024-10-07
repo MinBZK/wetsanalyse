@@ -8,7 +8,7 @@ let respecConfig = {
   specType: "IM",
   pubDomain: "ronl",
 
-  // shortName = Repository name 
+  // shortName = Repository name
   shortName: "Wetsanalyse",
   publishDate: "2024-10-07",
   publishVersion: "1.0.6",
