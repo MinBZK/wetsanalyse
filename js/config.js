@@ -9,7 +9,7 @@ let respecConfig = {
   pubDomain: "ronl",
 
   // shortName = Repository name
-  shortName: "Wetsanalyse (JAS)",
+  shortName: "Wetsanalyse-JAS",
   publishDate: "2024-10-07",
   publishVersion: "1.0.6",
 
