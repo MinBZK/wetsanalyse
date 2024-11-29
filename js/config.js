@@ -10,12 +10,12 @@ let respecConfig = {
 
   // shortName = Repository name as is
   shortName: "Wetsanalyse",
-  publishDate: "2024-10-07",
-  publishVersion: "1.0.7",
+  publishDate: "2024-11-29",
+  publishVersion: "1.0.8",
 
-  previousPublishVersion: "1.0.5",
-  previousPublishDate: "2024-05-10",
-  previousMaturity: "WV",
+  previousPublishVersion: "1.0.7",
+  previousPublishDate: "2024-10-07",
+  previousMaturity: "DEF",
   title: "Wetsanalyse met het juridisch analyseschema",
   subtitle:
     "Voor een werkbare uitvoering van wetgeving met ICT",
@@ -86,7 +86,7 @@ let respecConfig = {
   alternateFormats: [
     {
         label: "pdf",
-        uri: "Wetsanalyse.pdf",
+        uri: "https://regels.overheid.nl/standaarden/wetsanalyse/pdf",
     },
   ],
 };
